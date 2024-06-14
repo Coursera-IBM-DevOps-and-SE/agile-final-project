@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: 'ISSUE_TEMPLATE '
 about: Issue template for Agile ready user story
 title: ''
 labels: ''
